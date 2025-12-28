@@ -1,3 +1,2 @@
-Number of Pregnancies,Glucose Level,Blood Pressure,Skin Thickness,Insulin Level,Body Mass Index,Diabetes Pedigree Function,Age,output,timestamp
-1,85,66,29,125,26.6,0.351,31,✅ The model predicts NO DIABETES.,2025-12-28 18:09:25.288186
-2,197,70,45,543,30.5,0.158,53,⚠️ The model predicts DIABETES.,2025-12-28 18:23:37.775481
+Age (normalized),Sex (normalized),Body Mass Index (normalized),Blood Pressure (normalized),Total Serum Cholesterol (s1),Low-Density Lipoproteins (s2),High-Density Lipoproteins (s3),Total Cholesterol / HDL (s4),Triglycerides (s5),Blood Sugar (s6),output,timestamp
+0.038075906433423026,0.05068011873981862,0.061696206518683294,0.0218723855140367,'-0.04422349842444599,'-0.03482076283769895,'-0.04340084565202491,'-0.002592261998183278,0.019907486170462722,'-0.01764612515980379,⚠️ Prediction: Severe Diabetes,2025-12-29 01:57:20.878644
